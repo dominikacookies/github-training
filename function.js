@@ -1,1 +1,1 @@
-const myFunction = () => 'hello';
+const greeting = () => 'hello';
