@@ -1,4 +1,4 @@
-const hello = () => 'hello';
+const goodMorning = () => 'good morning';
 
 const checkIfOk = () => 'how are you?';
 
