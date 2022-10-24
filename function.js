@@ -1,1 +1,4 @@
-const greeting = () => 'hello';
+const greeting = (formal) => {
+  if (formal) 'goodbye';
+  return 'hello';
+};
